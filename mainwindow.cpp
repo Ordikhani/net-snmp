@@ -1,3 +1,10 @@
+
+# Author: FaOrdi
+# Date: 2024-06-01
+# Description:  SNMP getwalk DIO.
+
+
+
 #include "mainwindow.h"
 #include <QProcess>
 #include <QStringList>
